@@ -69,5 +69,7 @@
 ![Languages:](https://img.shields.io/badge/-Languages:-129369?style=for-the-badge&Color=1195F5)
 
 Belarussian - Native
+
 Russian - Native
+
 English - B1
