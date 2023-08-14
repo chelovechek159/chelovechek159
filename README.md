@@ -64,7 +64,6 @@
 - [Termial](https://github.com/chelovechek159/Terminal)
 - [JSON](https://github.com/chelovechek159/JSON)
 - [XML](https://github.com/chelovechek159/XML)
-- [TXT](https://github.com/chelovechek159/TXT)
 - [Git Branches](https://github.com/chelovechek159/GIT_HomeTask)
 - [Postman](https://github.com/chelovechek159/POSTMAN)
 - [SQL](https://github.com/chelovechek159/SQL)
