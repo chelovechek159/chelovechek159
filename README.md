@@ -1,6 +1,4 @@
-# Hello👋, my name is YAROSLAV!!!  This is my GitHub!!! 
-
-## YAROSLAV EVHIIMIK
+# Hello👋, my name is YAROSLAV EVHIMIK!!!  This is my GitHub!!! 
 
 ### [CV](https://drive.google.com/file/d/18NYWOFveSefUUxqKVAFZH5dBD1mrNQCq/view?usp=drive_link)
 
