@@ -51,12 +51,12 @@
 [![Software Testing Course by Vadim Ksendzov](https://img.shields.io/badge/Software_Testing_Course_by_Vadim_Ksendzov:-078?style=for-the-badge&Color=1195F5)](ksendzov.com)
 
 ##### Commercial practice on a real project:
-- Development of test documentation: checklists, glossary;
-- Daily smoke-testing, regression, retest, ad-hoc;
-- Writing bug reports, review;
-- Web testing;
-- Mobile testing;
-- UX/UI testing.
+- Testing of a mobile application for face recognition based on a neural network
+- Creation and updating of project documentation (regression checklist, glossary)
+- Performing regression testing
+- Creating bug reports, retest
+- Testing of mobile application updates
+- Performing exploratory and ad-hoc testing
 
 ##### Learning Programm:
 - [Termial](https://github.com/chelovechek159/Terminal)
