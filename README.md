@@ -1,6 +1,6 @@
 # Hello👋, my name is YAROSLAV EVHIMIK!!!  This is my GitHub!!! 
 _______
-##    [CV](https://drive.google.com/file/d/18NYWOFveSefUUxqKVAFZH5dBD1mrNQCq/view?usp=drive_link)
+##    [CV](https://drive.google.com/file/d/12Js2P39v3sUY2WhqehSZe2sSna9jj4tO/view?usp=sharing)
 
 ![QA Engineer](https://img.shields.io/badge/-QA_Engineer-078?style=for-the-badge&logoColor=47C5FB)
 
